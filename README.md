@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Lottie Player Example</title>
-	<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-</head>
-<body>
-	<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_lqbx9x0z.json" mode="bounce" background="transparent" speed="1" style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
-</body>
-</html>
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coldwater-10&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coldwater-10&theme=algolia&hide_border=true)<br/>
