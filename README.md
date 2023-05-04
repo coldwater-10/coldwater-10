@@ -17,6 +17,3 @@
 [![](https://visitcount.itsvg.in/api?id=coldwater-10&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<div style="width: 100%; height: 0; padding-bottom: 56%; position: relative;"><iframe src="https://lottiefiles.com/iframe/lf20_lqbx9x0z.html" style="width: 100%; height: 100%; position: absolute;" frameBorder="0"></iframe></div>
