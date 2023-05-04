@@ -1,14 +1,10 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_lqbx9x0z.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
-
-
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coldwater_10) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coldwater-10&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coldwater-10&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coldwater-10&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coldwater_10) 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=coldwater_10)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
