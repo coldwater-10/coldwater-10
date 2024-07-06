@@ -10,15 +10,11 @@
 - 📫 How to reach me **pcwwrk@hi2.in**
 - ⚡ Fun fact **I am not a programmer**
 
-<div> <a href="https://twitter.com/coldwater_10" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/coldwater-10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:pcwwrk@hi2.in"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/coldwater_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="coldwater_10" height="30" width="40" /></a></p>
-
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=coldwater-10&show_icons=true&locale=en&theme=highcontrast" alt="coldwater-10" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 300px;">
+    <a href="https://t.me/vpnclashfa"><img src="https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif" alt="Telegram" width="100" height="100"></a>
+    <a href="https://twitter.com/coldwater_10"><img src="https://cdn.dribbble.com/users/2652449/screenshots/14764078/media/2b620382444946ce84aac0a132c40063.gif" alt="Twitter" width="100" height="100"></a>
+    <a href="https://www.tvtime.com/en/user/43351079/profile"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFhMDk5NzJlYzdmZTJjMDM2Y2MzMjBkOTVkODAxM2FjMTdjZGMwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lj1ghwUoflkw2F3o0T/giphy.gif" alt="TvTime" width="100" height="100"></a>
+    <a href="https://linktr.ee/coldwater_10"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZrdHVxaGkycXV5M2g2emdvdHkwOWVvOHI5YWR3cTVtODJtbGQwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U3ig2IVcuNn6VgU3oO/giphy.gif" alt="linktr" width="100" height="100"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
