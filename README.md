@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coldwater-10&theme=matrix" alt="coldwater-10" /></a> </p>
 
-- 🤝 I’m looking for help with **to help people access the internet**
+- 🤝 I’m looking for help to **help people access the internet**
 
 - 📫 How to reach me **pcwwrk@hi2.in**
 - ⚡ Fun fact **I am not a programmer**
